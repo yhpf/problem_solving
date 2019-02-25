@@ -1,5 +1,5 @@
 # problem_solving
-Solving different problems in Python 3 or SQL
+Solving different problems in Python 3
 
 ## Where to find problems or challenges
 
